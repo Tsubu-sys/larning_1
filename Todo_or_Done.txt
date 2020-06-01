@@ -1,0 +1,10 @@
+6/1
+    done:   create repository and setup to git.
+            setup to run python3 command.
+                1. write '#!/usr/bin/python3' to file at first.
+                2. to run, '...path/filename.py'
+    todo:   make some program.
+                want to use soccer's api.
+                get info from soccer api, and this use to something.
+                (but first, got info output?)
+            setup apache server.
