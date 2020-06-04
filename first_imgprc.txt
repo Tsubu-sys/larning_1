@@ -1,0 +1,4 @@
+1. 下記URL参考にOpenCVをインストール
+    嘘 https://avinton.com/academy/opencv3-4-3-python3-6-ubuntu18-04-install/
+    https://qiita.com/taka_baya/items/453e429b466ffaa702c9
+    https://www.kkaneko.jp/tools/ubuntu/opencv.html
