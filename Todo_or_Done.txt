@@ -3,8 +3,24 @@
             setup to run python3 command.
                 1. write '#!/usr/bin/python3' to file at first.
                 2. to run, '...path/filename.py'
+            setup apache server.
+                but only operation check.
     todo:   make some program.
                 want to use soccer's api.
                 get info from soccer api, and this use to something.
                 (but first, got info output?)
-            setup apache server.
+    taskbreak
+        what you want?
+            teach visually, effective tactics for soccer beginner from input img.
+        what do you think to reach the goal, you need?
+            1. knowledge: image processing.
+            2. knowledge: deep larning (or machine larning).
+            3. Evaluation criteria: how do you judge each tactics are effective or not.
+        specification
+            1. image for input datasets are like bird's-eye view.
+            2. 'teach effective tactics' is mean draw pass course line to input image.
+    
+    first: larn image processing.
+    two: larn deep larning (or machine larning).
+    three: make program.
+    four: improving.
